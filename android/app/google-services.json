@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "843279772455",
+    "project_id": "awesome-projects-c4dc7",
+    "storage_bucket": "awesome-projects-c4dc7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843279772455:android:d554b33744130cd65e5702",
+        "android_client_info": {
+          "package_name": "com.example.hihealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843279772455-ijnofhrrlr6s02kggn6ohl38sup9hq4u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx7YoFZdTqDz64wswctIE8CBXP5QWrH5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843279772455-ijnofhrrlr6s02kggn6ohl38sup9hq4u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843279772455:android:4adc2b326bc801095e5702",
+        "android_client_info": {
+          "package_name": "com.example.store_keeper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843279772455-ijnofhrrlr6s02kggn6ohl38sup9hq4u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx7YoFZdTqDz64wswctIE8CBXP5QWrH5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843279772455-ijnofhrrlr6s02kggn6ohl38sup9hq4u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843279772455:android:124c4c4d774c25c75e5702",
+        "android_client_info": {
+          "package_name": "com.example.store_keeper_customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843279772455-ijnofhrrlr6s02kggn6ohl38sup9hq4u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx7YoFZdTqDz64wswctIE8CBXP5QWrH5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843279772455-ijnofhrrlr6s02kggn6ohl38sup9hq4u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
